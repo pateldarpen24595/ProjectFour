@@ -1,0 +1,49 @@
+{
+	"Head": "Weird Deals Items",
+	"secondHead": "Ottawa, ON",
+	"active": true,
+	"topDeals": [
+        {
+            "name": "A wall decal of senior citizens in a golf cart",
+			"price":"$21.96" ,
+			"description": "Some people decorate their walls with wallpaper, and others with art. And you can make your own home stand out by decorating with this decal of senior citizens riding in a golf cart.",
+			"fectures": [
+				"SAFE ON PAINTED WALLS",
+				"EASY AND FUN TO APPLY. SIMPLY PEEL AND STICK",
+				"DESIGNED, PRINTED, PACKED, AND SHIPPED IN THE USA",
+				"LARGEST SELECTION"
+			],
+			"image": "img/seniors-wall-decal.jpg"
+        },
+           {
+            "name": "A peanut butter and jelly of the month club",
+			"price": "$468.96",
+			"description": "If you’ve ever thought to yourself, “Spreading peanut butter and jelly on bread is too time-consuming,” Amazon has the answer. For just under $40 a month, you can enjoy gourmet peanut butter and jelly sandwiches, delivered straight to your door.",
+			"fectures": [
+				"Salty",
+				"Take in breakfast",
+				"its good if you spread on a bread",
+				"Yummy"
+			],
+			"image": "img/peanut-butter-and-jelly-club.jpg"
+        },
+           {
+            "name": "A pizza hat",
+			"price": "$11.62",
+			"description": "Finally, you can indulge in everyone’s life-long desire of wearing pizza atop their head. Beware the sprinkled parmesan as you nod or shake your head, though—some might mistake it for dandruff.",
+			"fectures": [
+				"Fun felt pizza novelty hat",
+				"One size adult or teen",
+				"Looks like pepperoni and cheese pizza",
+                "As seen at carnivals, parades, theme parties",
+                "Made of brightly colored felt"
+				
+			],
+			"image": "img/5139OFKq8HL.jpg"
+        }
+	]
+}
+
+
+
+
